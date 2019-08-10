@@ -34,9 +34,10 @@ System.out.println("a is not equal to b");
 if(a>=b)
 {
 	System.out.println("a is greater than or equal to b");
-	}else{
+	
+}else{
 		System.out.println("b is greter than a");
-	}
+	 }
 
 
 	}
