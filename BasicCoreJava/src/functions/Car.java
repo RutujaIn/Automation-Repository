@@ -20,7 +20,7 @@ public class Car
 	public static void main(String[] args) // key->ctrl+space+enter
 	                                       // static functions can only call static functions & static variables without creating an object
 	{
-		//Static variables and Static functons
+		//Static variables and Static functions
 		testdrive();
 		System.out.println(wheels);
 		

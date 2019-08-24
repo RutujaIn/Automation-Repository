@@ -5,28 +5,28 @@ public class Functions3 {
 	public static void main(String[] args) 
 	{
 
-		result(68);
+		String r = result(68);
+		System.out.println(r);
 		
 	}
 	
 	public static String result(int res) 
 	{
-
+		 String r = null; //not executing else part
+		 
 		if (res>=35 && res<60)
 		{
-		     String r1="pass";
+		      r="pass";
 	    }else if (res>=60 && res<=75)
 		{
-		     String r2="first";
+		      r="first";
    	
 	    }else if (res>75)
 	    		{
-		     String r3 ="distinction";
+		      r ="distinction";
 		        }
 	
-		return r1;
-		return r2;
-		return r3;
-		
+		return r;
+	
 	}
 }

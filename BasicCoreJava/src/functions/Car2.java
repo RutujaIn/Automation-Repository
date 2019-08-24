@@ -2,7 +2,7 @@ package functions;
 
 public class Car2 
 {
-   int cc; //local variables
+   int cc; // local variables ?
    String fueltype;
    int steering;
    

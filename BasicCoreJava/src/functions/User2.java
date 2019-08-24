@@ -6,7 +6,7 @@ public class User2 {
 
 	{
 		
-		// constructor -> to initialize instance variables
+		// constructor -> to initialize instance(object) variables
       Car2 honda=new Car2();
       honda.cc =2000;
       honda.fueltype="diesel"; //initializing object

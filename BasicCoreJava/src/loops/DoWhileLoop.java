@@ -1,4 +1,4 @@
-package conditionalStatements;
+package loops;
 
 public class DoWhileLoop {
 

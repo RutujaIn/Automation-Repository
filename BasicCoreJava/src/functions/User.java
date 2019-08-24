@@ -31,5 +31,5 @@ public class User {
 }
 
 
-//variable types : 1.Static(class) 2.Non static(instance)
+//variable types : 1.Static(class/global) 2.Non static(instance)
   
