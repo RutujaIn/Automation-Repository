@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-01T11:39:03 IST" name="Suite" finished-at="2019-09-01T11:39:03 IST" duration-ms="531">
+    <groups>
+    </groups>
+    <test started-at="2019-09-01T11:39:03 IST" name="Suite 1" finished-at="2019-09-01T11:39:03 IST" duration-ms="11">
+    </test> <!-- Suite 1 -->
+    <test started-at="2019-09-01T11:39:03 IST" name="Module 1" finished-at="2019-09-01T11:39:03 IST" duration-ms="165">
+      <class name="basicAnnotations_M1.Scenario2">
+        <test-method is-config="true" signature="preScenario()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="preScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preScenario -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test1()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="test1" finished-at="2019-09-01T11:39:03 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method signature="test2()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="test2" finished-at="2019-09-01T11:39:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test3()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="test3" finished-at="2019-09-01T11:39:03 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="postScenario()[pri:0, instance:basicAnnotations_M1.Scenario2@38c5cc4c]" started-at="2019-09-01T11:39:03 IST" name="postScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScenario -->
+      </class> <!-- basicAnnotations_M1.Scenario2 -->
+      <class name="basicAnnotations_M1.Scenario1">
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method is-config="true" signature="preScenario()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="preScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preScenario -->
+        <test-method signature="test1()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="test1" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method signature="test2()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="test2" finished-at="2019-09-01T11:39:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test3()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="test3" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="postScenario()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="postScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScenario -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M1.Scenario1@37918c79]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+      </class> <!-- basicAnnotations_M1.Scenario1 -->
+      <class name="basicAnnotations_M1.BaseModule1">
+        <test-method is-config="true" signature="preModule()[pri:0, instance:basicAnnotations_M1.BaseModule1@223f3642]" started-at="2019-09-01T11:39:03 IST" name="preModule" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preModule -->
+        <test-method is-config="true" signature="postModule()[pri:0, instance:basicAnnotations_M1.BaseModule1@223f3642]" started-at="2019-09-01T11:39:03 IST" name="postModule" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postModule -->
+      </class> <!-- basicAnnotations_M1.BaseModule1 -->
+    </test> <!-- Module 1 -->
+    <test started-at="2019-09-01T11:39:03 IST" name="Module 2" finished-at="2019-09-01T11:39:03 IST" duration-ms="132">
+      <class name="basicAnnotations_M2.Scenario4">
+        <test-method is-config="true" signature="preScenario()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="preScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preScenario -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test1()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="test1" finished-at="2019-09-01T11:39:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test2()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="test2" finished-at="2019-09-01T11:39:03 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="test3" finished-at="2019-09-01T11:39:03 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="postScenario()[pri:0, instance:basicAnnotations_M2.Scenario4@7b227d8d]" started-at="2019-09-01T11:39:03 IST" name="postScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScenario -->
+      </class> <!-- basicAnnotations_M2.Scenario4 -->
+      <class name="basicAnnotations_M2.BaseModule2">
+        <test-method is-config="true" signature="preModule()[pri:0, instance:basicAnnotations_M2.BaseModule2@12d4bf7e]" started-at="2019-09-01T11:39:03 IST" name="preModule" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preModule -->
+        <test-method is-config="true" signature="postModule()[pri:0, instance:basicAnnotations_M2.BaseModule2@12d4bf7e]" started-at="2019-09-01T11:39:03 IST" name="postModule" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postModule -->
+      </class> <!-- basicAnnotations_M2.BaseModule2 -->
+      <class name="basicAnnotations_M2.Scenario3">
+        <test-method is-config="true" signature="preScenario()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="preScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preScenario -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test1()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="test1" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test2()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="test2" finished-at="2019-09-01T11:39:03 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test3()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="test3" finished-at="2019-09-01T11:39:03 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="postScenario()[pri:0, instance:basicAnnotations_M2.Scenario3@4c1d9d4b]" started-at="2019-09-01T11:39:03 IST" name="postScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScenario -->
+      </class> <!-- basicAnnotations_M2.Scenario3 -->
+    </test> <!-- Module 2 -->
+    <test started-at="2019-09-01T11:39:03 IST" name="Module 3" finished-at="2019-09-01T11:39:03 IST" duration-ms="78">
+      <class name="basicAnnotations.BaseClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:basicAnnotations.BaseClass@1d548a08]" started-at="2019-09-01T11:39:03 IST" name="setUp" finished-at="2019-09-01T11:39:03 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:basicAnnotations.BaseClass@1d548a08]" started-at="2019-09-01T11:39:03 IST" name="tearDown" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- basicAnnotations.BaseClass -->
+      <class name="basicAnnotations_M3.BaseModule3">
+        <test-method is-config="true" signature="preModule()[pri:0, instance:basicAnnotations_M3.BaseModule3@2f177a4b]" started-at="2019-09-01T11:39:03 IST" name="preModule" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preModule -->
+        <test-method is-config="true" signature="postModule()[pri:0, instance:basicAnnotations_M3.BaseModule3@2f177a4b]" started-at="2019-09-01T11:39:03 IST" name="postModule" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postModule -->
+      </class> <!-- basicAnnotations_M3.BaseModule3 -->
+      <class name="basicAnnotations_M3.Scenario5">
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method is-config="true" signature="preScenario()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="preScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preScenario -->
+        <test-method signature="test1()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="test1" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test2()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="test2" finished-at="2019-09-01T11:39:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test3()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="test3" finished-at="2019-09-01T11:39:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="postScenario()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="postScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScenario -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M3.Scenario5@4278a03f]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+      </class> <!-- basicAnnotations_M3.Scenario5 -->
+      <class name="basicAnnotations_M3.Scenario6">
+        <test-method is-config="true" signature="preScenario()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="preScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preScenario -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test1()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="test1" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test2()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="test2" finished-at="2019-09-01T11:39:03 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="testCasePreCondition()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="testCasePreCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePreCondition -->
+        <test-method signature="test3()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="test3" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="testCasePostCondition()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="testCasePostCondition" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCasePostCondition -->
+        <test-method is-config="true" signature="postScenario()[pri:0, instance:basicAnnotations_M3.Scenario6@147ed70f]" started-at="2019-09-01T11:39:03 IST" name="postScenario" finished-at="2019-09-01T11:39:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postScenario -->
+      </class> <!-- basicAnnotations_M3.Scenario6 -->
+    </test> <!-- Module 3 -->
+  </suite> <!-- Suite -->
+</testng-results>
